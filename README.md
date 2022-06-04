@@ -44,14 +44,14 @@ Learning End-to-End Testing with Jest
 To Verify the functionality of your entire application, to easily revalidate this functionality within seconds, and for continuous integration, you need end-to-end testing. In this course We are going to start with the basics of Test-Driven Development, touching on the different types, and moving on to particially write an end-to-end test for (mumbles) web service application, built with Node.js and MongoDB using Jest, testing the applocation workflow from beginning to end with a high code coverage. I am Uzzal Kumar Roy and experienced Software Engineer in building Scalable Distributed Software Systems that meets business needs in diverse industries. I am excited to welcome you to my course titled "Learning End-to-End Testing with Jest." Let's get started.
 
 #### 2. Prerequisites and learning objectives
-1. RestfulAPI
-2. NodeJs
-3. ExpressJs
-4. MongoBD
-5. Mongoose
-6. ES6
+- RestfulAPI
+- NodeJs
+- ExpressJs
+- MongoBD
+- Mongoose
+- ES6
 
-- This course makes use of a RESTful Node.js Expres application.
+This course makes use of a RESTful Node.js Expres application.
 Therefore, to make the most out of this course, you need to have practical experience
 writing RESTful applications with Node.js and Express. If you're new to writing RESTful API
 With Node.js and Express or need to review them, I recommend searching the library for courses On Building a RESTful API with Node.js and Express.
