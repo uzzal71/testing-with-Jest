@@ -85,42 +85,49 @@ are simple software requirements adn specifications derived from Use Cases and U
 Test Driven Development, TDD, is a software development process relying on software requirements
 beign converted to test cases before software is fully developed and tracking software development by
 repeatedly testing the software against all test cases, as opposed to software being developed first
-and test cases created later.
-Test Driven Development is also called Test First Development because you first writte a test
-before you write just enough production code to fulfill that test
-and then go on to refactor the production code.
-Let's talk about the life cycle of Test Deiven Development. It spins around five steps
-Which are repeated continuously all through the agile methodology in software development.
+and test cases created later.Test Driven Development is also called Test First Development because you first writte a testbefore you write just enough production code to fulfill that test
+and then go on to refactor the production code.Let's talk about the life cycle of Test Deiven Development. It spins around five stepsWhich are repeated continuously all through the agile methodology in software development.
+```
 - Write a test
+```
 The first step is to write the test. In Test Driven Development, the adding of a new feature begins by writing a test that passes if the feature's specifications are met.
 This is in contrast with the usual practice where unit tests are only written after code.
+```
 - Test Fails
+```
 For the second step, you affirm the test fails. Run all tests. The new test should fail.
 This is to validate that the test is working correctly and new code is needed for the desired feature.
 - Write code to pass the test
 In the third step, you will write code to pass the test. Write the simplest code that passes the new test.
 Inelegance code is aceptable as long as it passes the test. The code will be refactored in step five.
 You should not write code beyond the tested functionality.
+```
 - Test Passes
+```
 Four the fourth step, you will affirm the tet passes. Run all tests.
 They should all now pass. If any fails, the new code must be revisited until they pass because the new code must meet the test requirements
 and not break existing features.
+```
 - Refactor
+```
 Step five is Refactor. Remove hard-coded test data and refactor as needed for readability and maintainability, running tests after each refactor
 to ensure that functionality is preserved.
 Finally we will repeat this cycle for each new piece of functionality.
 Tests should be small and incremental and commits made often. That way, if new code fails some tests
 you can simply undo or revert rather that debug excessively.
 Test Driven Development makes you focus on requirements before writing code. And some of its benefits include 
-
+```
 - improved code quality
 - detauked product documentation
 - Reduced product budget
 - Reduced bugs
+```
 
 There are three major types of Test Driven Development.Namely
+```
 - Unit Tests
 - Integration Tests
 - End to End Tests
+```
 
 In the coming videos, we will discuss each of these types of TDD in detail.
