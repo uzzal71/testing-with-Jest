@@ -61,3 +61,18 @@ Search the library for Switching to ES6 in Node.js in the library.
 Our project template uses Mongoose ORM to save our retrieve data fro a mongoDB.
 So, experience with mongoDB and Mongooses is essential. I am developing on Windows 10 and using Visual Studio Code as my code editor.
 Feel fress to follow along on any operating system and code editor of your choice.
+
+#### 3. Exercise files
+The source code for this course, is on GitHub. The repository is built in such a way that, 
+there are tow branches for each coding video of this course.
+You can use the branch button to switch to a specific branch
+and see how the code looks at the beginning or end of a specific video.
+Foe example, the branch tied to zero, two, zero on B will show you, how the code
+looks at the beginning of the video with video number zero, two, zero, one.
+If you want to, you can download any of these branches by first switching to the branch
+and then hitting the Code button, And clicking on Download ZIP.
+You can also, clone this repository into your local machine
+by clicking on this button, to copy the URL and then use the Git clone command,
+followed by the link you just copied, to save the sourse code to your local machine.
+If you need more help on GitHub, please search the library for a course on GitHub.
+Otherwise, let's get right into this course.
