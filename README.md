@@ -37,3 +37,7 @@ Learning End-to-End Testing with Jest
 
 ## Conclusion
 23. Next steps
+
+
+#### 1. Create comprehensive end-to-end tests with Jest
+To Verify the functionality of your entire application, to easily revalidate this functionality within seconds, and for continuous integration, you need end-to-end testing. In this course We are going to start with the basics of Test-Driven Development, touching on the different types, and moving on to particially write an end-to-end test for (mumbles) web service application, built with Node.js and MongoDB using Jest, testing the applocation workflow from beginning to end with a high code coverage. I am Uzzal Kumar Roy and experienced Software Engineer in building Scalable Distributed Software Systems that meets business needs in diverse industries. I am excited to welcome you to my course titled "Learning End-to-End Testing with Jest." Let's get started.
